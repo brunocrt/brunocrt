@@ -28,4 +28,4 @@ Some of my skills are:
 -->
 #
 
-![github stats](https://github-readme-stats.vercel.app/api?username=brunocrt&show_icons=true&theme=dark)
+![github stats](https://github-readme-stats.vercel.app/api?username=brunocrt&show_icons=true&include_all_commits=true)
