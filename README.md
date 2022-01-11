@@ -1,5 +1,7 @@
 ### Hi there 👋
 
+My name is Bruno, I love working as a Software engineer/architect interested in application architecture, design, integration, cloud development, devops and AI. I'm an eager learner of any new topic that makes me learn new things. I like to interact with people and make others people lives easier.
+
 <!--
 **brunocrt/brunocrt** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -15,8 +17,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-#
-
 <!--
 Some of my skills are: 
 <img src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white"/>
@@ -27,5 +27,4 @@ Some of my skills are:
 <img src="https://img.shields.io/badge/Javascript%20-%23F7DF1E.svg?&style=for-the-badge&logo=javascript&logoColor=white"/>
 -->
 #
-
 ![github stats](https://github-readme-stats.vercel.app/api?username=brunocrt&show_icons=true&include_all_commits=true)
